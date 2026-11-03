@@ -1,0 +1,3 @@
+# No required dependencies: the offline core is standard-library only.
+# Optional, for a production LangGraph deployment:
+# langgraph>=0.2
